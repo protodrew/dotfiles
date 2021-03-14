@@ -1,14 +1,15 @@
 {
-  "timeStamp": 1615694683703,
+  "timeStamp": 1615744691970,
   "version": "1.34.0",
   "userSettings": {
-    "externalLists": "https://austinhuang.me/0131-block-list/list.txt\nhttps://block.energized.pro/unified/formats/hosts.txt\nhttps://dbl.oisd.nl/\nhttps://mkb2091.github.io/blockconvert/output/hosts.txt\nhttps://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt\nhttps://raw.githubusercontent.com/gasull/adblock-nsa/master/filters.txt",
+    "externalLists": "https://austinhuang.me/0131-block-list/list.txt\nhttps://block.energized.pro/unified/formats/hosts.txt\nhttps://dbl.oisd.nl/\nhttps://mkb2091.github.io/blockconvert/output/hosts.txt\nhttps://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt\nhttps://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt\nhttps://raw.githubusercontent.com/gasull/adblock-nsa/master/filters.txt",
     "importedLists": [
       "https://austinhuang.me/0131-block-list/list.txt",
       "https://block.energized.pro/unified/formats/hosts.txt",
       "https://dbl.oisd.nl/",
       "https://mkb2091.github.io/blockconvert/output/hosts.txt",
       "https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt",
+      "https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt",
       "https://raw.githubusercontent.com/gasull/adblock-nsa/master/filters.txt"
     ]
   },
@@ -34,7 +35,8 @@
     "https://raw.githubusercontent.com/gasull/adblock-nsa/master/filters.txt",
     "https://dbl.oisd.nl/",
     "https://austinhuang.me/0131-block-list/list.txt",
-    "https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt"
+    "https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt",
+    "https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt"
   ],
   "hiddenSettings": {},
   "whitelist": [
