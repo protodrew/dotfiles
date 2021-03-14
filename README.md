@@ -12,3 +12,6 @@ see [Install.md](./Install.md)
 
 coming soon
 
+### License
+
+[GPL v3](./LICENSE.md)
