@@ -1,6 +1,0 @@
-    "workbench.colorTheme": "Nord",
-    "editor.fontFamily": "'Input Mono','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
-    "workbench.startupEditor": "newUntitledFile",
-    "clangd.path": "/home/protodrew/.config/VSCodium/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/11.0.0/clangd_11.0.0/bin/clangd",
-    "sync.gist": "a15d8f8af45a605ef3a7e52c3d72cabf"
-}
