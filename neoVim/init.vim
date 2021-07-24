@@ -25,18 +25,23 @@ Plug 'chriskempson/base16-vim'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'tpope/vim-commentary'
+Plug 'tpope/vim-surround'
 Plug 'tpope/vim-repeat'
 Plug 'arcticicestudio/nord-vim'
+Plug 'habamax/vim-godot'
 Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all', 'on': 'FZF' }
 Plug 'neoclide/coc.nvim', { 'branch': 'release' }
 Plug 'xuhdev/vim-latex-live-preview', { 'for': 'tex' }
+Plug 'mg979/vim-visual-multi', {'branch': 'master'}
+Plug 'preservim/nerdtree'
 
 call plug#end()
 
-nmap j gj
 nmap k gk
 
 set clipboard=unnamedplus
+
+map <C-o> :NERDTreeToggle<CR>
 
 "clear search by pressing <esc>
 nnoremap <silent> <esc> :noh<return><esc>
