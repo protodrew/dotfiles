@@ -20,7 +20,7 @@ augroup END
 
 call plug#begin('~/.config/nvim/plugged')
 
-
+Plug 'airblade/vim-gitgutter'
 Plug 'chriskempson/base16-vim'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
@@ -34,6 +34,7 @@ Plug 'neoclide/coc.nvim', { 'branch': 'release' }
 Plug 'xuhdev/vim-latex-live-preview', { 'for': 'tex' }
 Plug 'mg979/vim-visual-multi', {'branch': 'master'}
 Plug 'preservim/nerdtree'
+Plug 'dense-analysis/ale'
 
 call plug#end()
 
