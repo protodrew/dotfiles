@@ -1,0 +1,18 @@
+{
+  "todoPageName": "TODO",
+  "showChecked": false,
+  "groupBy": "page",
+  "sortDirection": "old->new",
+  "ignoreFiles": "",
+  "includeFiles": "",
+  "lookAndFeel": "compact",
+  "_collapsedSections": [
+    "Godot/GDScript/Input.md",
+    "Talks/GDC/Procedural Generation in Caves of Qud/Techniques of Procedural Generation in Caves of Qud].md",
+    "Classes/MU2801/Lectures/08-30-21 - Acoustics and Hearing (cont.).md",
+    "Technology/Programming/processes in unix.md",
+    "Classes/MU2801/Lectures/08-26-21 - Overview of Musical Machines/religious application of musical machines.md",
+    "Technology/CSS/animation-fill-mode.md",
+    "Literature & Talks/Books/Proposed solutions in Abolish Silicon Valley.md"
+  ]
+}
